@@ -1,10 +1,10 @@
 Lập trình C++ từ cơ bản đến nâng cao!
 ===================================
 
-Contents
+Nội dung
 --------
 
 .. toctree::
 
-   usage
-   api
+   Lesson1
+   Lesson2
